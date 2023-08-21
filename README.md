@@ -2,7 +2,7 @@
 - 👀 I’m interested in websites and applications
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Java, SQL server, HTML, CSS 
-- 📫 How to reach me : DM
+- 📫 How to reach me : magogo710@gmail.com
 
 <!---
 YunFox/YunFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
